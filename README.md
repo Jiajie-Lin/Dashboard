@@ -30,10 +30,5 @@ Open your browser to the URL shown in terminal (usually `http://localhost:5006`)
 - **Interactive Controls**: Toggle between wins/losses, adjust plot sizes
 - **Multi-tab Interface**: Organized views of different analyses
 
-## 🐛 Troubleshooting
-
-- Make sure all files are in the same directory
-- Check Python version is 3.7+
-- Verify `cleaned_league.csv` exists
 
 ---
