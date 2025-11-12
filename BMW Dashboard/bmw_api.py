@@ -1,6 +1,6 @@
 """
 Jiajie Lin
-DS 3500 Homework 3 API
+BMW API
 The primary API for interacting with the BMW dataset
 """
 
