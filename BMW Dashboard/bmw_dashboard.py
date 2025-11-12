@@ -1,6 +1,5 @@
 """
 Jiajie Lin
-Homework 3
 Description: Make a simple easy to use dashboard
 """
 #imports
