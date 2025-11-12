@@ -1,6 +1,6 @@
 """
 Jiajie Lin
- DS 3500 Box and Whisker
+Box and Whisker
 """
 
 import plotly.graph_objects as go
