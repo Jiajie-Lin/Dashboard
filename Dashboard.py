@@ -5,7 +5,7 @@ Description: Make a simple easy to use dashboard
 """
 import panel as pn
 
-from homework3_api import LeagueAPI
+from api import LeagueAPI
 import sankey as sk
 import pandas as pd
 import matplotlib.pyplot as plt
