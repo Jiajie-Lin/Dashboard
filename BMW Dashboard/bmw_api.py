@@ -6,7 +6,6 @@ The primary API for interacting with the BMW dataset
 
 import pandas as pd
 import numpy as np
-from sipbuild.generator.parser.ply.yacc import resultlimit
 
 import sankey as sk
 import matplotlib.pyplot as plt
