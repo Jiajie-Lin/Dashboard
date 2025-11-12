@@ -6,8 +6,7 @@ Description: Make a simple easy to use dashboard
 import panel as pn
 from bmw_api import BMWAPI
 from datetime import datetime
-import graphs as graphs
-import Read_ME as read
+
 
 # Loads javascript dependencies and configures Panel (required)
 pn.extension()
